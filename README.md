@@ -14,6 +14,10 @@ The design includes a snowman made with geometric shapes and realistic snowflake
 ## OUTPUT
 <img width="1366" height="706" alt="sleighthecode-output" src="https://github.com/user-attachments/assets/ce7e4ea0-8a2c-4588-9594-9cb81137967d" />
 
+## Execution Video
+[Watch the execution video](https://drive.google.com/file/d/1b3Fu7IBYRgOSUOAReHrDPE-YYhGTDXQI/view?usp=drivesdk)
+
+
 
 ## Author
 Adithya D
